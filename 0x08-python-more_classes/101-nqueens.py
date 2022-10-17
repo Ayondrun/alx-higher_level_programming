@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 Solving the N Queens problem in Python.
 https://en.wikipedia.org/wiki/N_queens_problem
