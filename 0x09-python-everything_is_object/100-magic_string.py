@@ -1,3 +1,4 @@
 #!/usr/bin/python3
-def copy_list(l):
-    return l.copyi()
+def magic_string(values=[]):
+    values.append('BestSchool')
+    return ', '.join(values)
